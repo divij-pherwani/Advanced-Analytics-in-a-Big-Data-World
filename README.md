@@ -1,2 +1,3 @@
 # KU LEUVEN 2022 
-## Advanced Analytics in a Big Data World [D0S06A] [D0S07A] 
+## Advanced Analytics in a Business [D0S07A] 
+## Big Data Platforms & Technologies [D0S06A]
